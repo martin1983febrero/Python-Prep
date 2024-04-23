@@ -8,11 +8,14 @@
 # In[7]:
 
 
-
+a = (1,3,7)
 
 # 2) Imprimir el tipo de dato de la constante 8.5
 
 # In[3]:
+
+b = 8.5
+type(b)
 
 
 
@@ -22,7 +25,7 @@
 
 # In[8]:
 
-
+type(a)
 
 
 
@@ -30,21 +33,21 @@
 
 # In[2]:
 
-
+c = 'martin'
 
 
 # 5) Crear una variable que contenga un número complejo
 
 # In[3]:
 
-
+d = 2 + 3j
 
 
 
 # 6) Mostrar el tipo de dato de la variable crada en el punto 5
 
 # In[4]:
-
+type (d)
 
 
 
